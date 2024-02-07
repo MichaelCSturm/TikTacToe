@@ -1,0 +1,15 @@
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\bin\Debug\net7.0\MichaelSturmAssignmentM4.exe
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\bin\Debug\net7.0\MichaelSturmAssignmentM4.deps.json
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\bin\Debug\net7.0\MichaelSturmAssignmentM4.runtimeconfig.json
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\bin\Debug\net7.0\MichaelSturmAssignmentM4.dll
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\bin\Debug\net7.0\MichaelSturmAssignmentM4.pdb
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.csproj.AssemblyReference.cache
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.AssemblyInfoInputs.cache
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.AssemblyInfo.cs
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.csproj.CoreCompileInputs.cache
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.dll
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\refint\MichaelSturmAssignmentM4.dll
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.pdb
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\MichaelSturmAssignmentM4.genruntimeconfig.cache
+C:\Users\mcstvb\source\repos\MichaelSturmAssignmentM4\MichaelSturmAssignmentM4\obj\Debug\net7.0\ref\MichaelSturmAssignmentM4.dll
